@@ -6,7 +6,7 @@
 **<font size="+2"><a href="SHOW_ALL.md">Show All</font></a><br><span style="color:red">(Warning: 500MB)</span>**
 
 
-<img align=right width="550" align="center" src="img/demo.gif">
+<img width="550" align="center" src="img/demo.gif">
 
 | Level   |Plot                              | IJON      | 
 |---------|----------------------------------|------------------|
